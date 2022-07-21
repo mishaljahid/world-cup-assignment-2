@@ -1,0 +1,21 @@
+.match-slider-img {
+    width: 61%;
+}
+
+.live-text {
+    text-align: center;
+}
+
+.live-text h3 {
+    padding: 10px 0;
+}
+
+.match-part {
+    padding: 23px;
+
+}
+
+.match-img {
+    display: flex;
+    justify-content: space-between;
+}
